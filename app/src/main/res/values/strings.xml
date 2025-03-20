@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TheLimiter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">The limiter</string>
+    <string name="nav_header_subtitle">Know your limits</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_budget">Budget</string>
+    <string name="menu_mbl_data">Mobile Data</string>
+    <string name="the_limits_for_today">The limits for today:</string>
+    <string name="you_can_spend_x_lei_today">You can spend X Lei today</string>
+    <string name="daily_budget">Daily Budget Remaining</string>
+    <string name="data_usage">Daily Data Remaining</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="currency_icon">Currency Icon</string>
+    <string name="data_icon">Data Icon</string>
+    <string name="set_monthly_amount">Set monthly amount:</string>
+    <string name="save">Save</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="set_monthly_amount_money">Set monthly amount:</string>
+    <string name="enter_data_limit">Set monthly amount:</string>
+    <string name="set_data_limit">Set data limit:</string>
+</resources>
