@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📬 Contact
 
-For any questions or suggestions, please contact 📧 corotinschipolina@gmail.com or visit 🌐 [[TheLimiter]](https://github.com/Polina5002/TheLimiter).
+For any questions or suggestions, please contact 📧 corotinschipolina@gmail.com or visit 🌐 [TheLimiter](https://github.com/Polina5002/TheLimiter).
